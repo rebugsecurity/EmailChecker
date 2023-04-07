@@ -4,4 +4,4 @@ This is a python program specifically made for checking and seeing if an email i
 # usage
 ``python3 checker.py`` Make sure to replace the current email with whatever you want.
 
-https://github.com/rebugsecurity/EmailChecker/blob/3f09f96aa80b83c1905cf5fb74f8cad74102cd51/Screenshot%202023-04-06%20224445.png
+![alt text](https://github.com/rebugsecurity/EmailChecker/blob/3f09f96aa80b83c1905cf5fb74f8cad74102cd51/Screenshot%202023-04-06%20224445.png)
